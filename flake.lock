@@ -3,11 +3,11 @@
     "asn2org": {
       "flake": false,
       "locked": {
-        "lastModified": 1722496636,
-        "narHash": "sha256-gPdpxcC1yNZ0/BtaFWorBtx+S+0ZfJZ2WiqfAhWu5TI=",
+        "lastModified": 1739603934,
+        "narHash": "sha256-d+ND4GYz5eAHReMvvvcuwVLhjarU3bdq/sRo/Wy6eho=",
         "owner": "vincentbernat",
         "repo": "asn2org",
-        "rev": "6a4560cacfa2377d3fd4e952b40099a3edb581f8",
+        "rev": "fd68c16481a6f6b1c798c49054220f2441ff588a",
         "type": "github"
       },
       "original": {
